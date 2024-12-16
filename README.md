@@ -8,8 +8,16 @@ Sou formado em Engenharia Civil pelo ITA e atualmente estou fazendo minha pós-g
 
 🧑🏼‍💻 Possuo conhecimentos técnicos em:
 
--SQL
--Python (Pandas, Numpy, Matplotlib, Seaborn e Scikit-learn)
--DataViz (PowerBI) e Figma
--Excel
--Estatística
+- SQL
+- Python (Pandas, Numpy, Matplotlib, Seaborn e Scikit-learn)
+- DataViz (PowerBI)
+- Excel
+- Estatística
+
+## Contato
+
+ - [Linkedin](https://www.linkedin.com/in/vinicius-de-souza-lima/)
+ - [Kaggle](https://www.kaggle.com/vinciusdesouzalima) 
+ - [Github](https://github.com/vinicius-souza-lima)
+
+
